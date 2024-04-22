@@ -1,0 +1,11 @@
+REVISÃO
+1) Letra B), pois a divisão de inteiros resultaria em 2, porém como a variavel "resultado" esta com double, logo seria 2.0
+2) Letra A), pois na linha 5 o incrimento veio depois da impressão, e so apos isso o 5 virou 6. E na linha seguinta o incremento veio antes, logo 6 virou 7.
+3) Letra A), pois esta com a sintaxe correta.
+4) Letra A), o + é o simbolo utilizado. 
+5) Letra A), a sintaxe dessa alternativa esta correta. 
+6) Letra C), pois o "+=" ira concatenar as duas palavras.
+7) Letra C), o programa gera uma exceção de tempo de execução. 
+8) Letra A), pois a sintaxe esta correta. 
+9) Letra A), pois verdadeiro || falso = verdadeiro.
+10) Letra A), pois verdadeiro || falso = verdadeiro.
